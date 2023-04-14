@@ -1,0 +1,6 @@
+WARNING: CherryColaKuwada  has no statistics
+WARNING: StripLittleMix  has no statistics
+Average Audio:  64379.166666666664
+Second Highest Consumption:  ('Audio', 821.864)
+Videos percentage of One Kiss ATD:  0.004384406012365195
+Songs with video consumption that increased by at least 3%:  Strip
